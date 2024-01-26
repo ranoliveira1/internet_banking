@@ -1,0 +1,31 @@
+[
+    {
+        "code": "10-20-30.123456",
+        "sort_code": "10-20-30",
+        "account_number": "123456",
+        "password": "666",
+        "client_name": "Rafael Oliveira",
+        "email": "r.negreiros@outlook.com.br",
+        "phone": "07570361703",
+        "status": "Active"
+    },
+    {
+        "code": "10-20-30.989898",
+        "sort_code": "10-20-30",
+        "account_number": "989898",
+        "password": "111",
+        "client_name": "John Python",
+        "email": "j.python@outlook.com.br",
+        "phone": "07570361703",
+        "status": "Inactive"
+    },
+    {
+        "code": "10-50-30.66699",
+        "sort_code": "10-50-30",
+        "account_number": "66699",
+        "client_name": "Frederich Hegel",
+        "email": "hegel@outlook.com.br",
+        "phone": "07570361703",
+        "status": "Active"
+    }
+]

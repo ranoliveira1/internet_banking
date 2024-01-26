@@ -1,0 +1,79 @@
+[
+    {
+        "client_code": "10-20-30.123456",
+        "date": "2024-01-18 07:30:20",
+        "value": 100.0,
+        "nature": "Credit",
+        "current_balance": 1500.0
+    },
+    {
+        "client_code": "10-20-30.123456",
+        "date": "2024-01-19 07:30:20",
+        "value": -50.0,
+        "nature": "Debit",
+        "current_balance": 1450.0
+    },
+    {
+        "client_code": "10-50-30.66699",
+        "date": "2024-01-18 07:30:20",
+        "value": 200.0,
+        "nature": "Credit",
+        "current_balance": 2200.0
+    },
+    {
+        "client_code": "10-50-30.66699",
+        "date": "2024-01-22 07:38:43",
+        "value": 200.0,
+        "nature": "Debit",
+        "current_balance": 2000.0
+    },
+    {
+        "client_code": "10-20-30.123456",
+        "date": "2024-01-22 08:00:15",
+        "value": 450.0,
+        "nature": "Debit",
+        "current_balance": 1000.0
+    },
+    {
+        "client_code": "10-20-30.123456",
+        "date": "2024-01-23 07:42:48",
+        "value": 50.0,
+        "nature": "Debit",
+        "current_balance": 950.0
+    },
+    {
+        "client_code": "10-20-30.123456",
+        "date": "2024-01-23 07:54:32",
+        "value": 1000.0,
+        "nature": "Credit",
+        "current_balance": 1950.0
+    },
+    {
+        "client_code": "10-20-30.123456",
+        "date": "2024-01-26 07:43:43",
+        "value": 10.0,
+        "nature": "Credit",
+        "current_balance": 1910.0
+    },
+    {
+        "client_code": "10-20-30.123456",
+        "date": "2024-01-26 08:08:24",
+        "value": 50.0,
+        "nature": "Debit",
+        "current_balance": 1860.0
+    },
+    {
+        "client_code": "10-20-30.123456",
+        "date": "2024-01-26 08:08:36",
+        "value": 100.0,
+        "nature": "Credit",
+        "current_balance": 1960.0
+    },
+    {
+        "client_code": "10-20-30.123456",
+        "date": "2024-01-26 08:10:24",
+        "value": 50.0,
+        "nature": "Debit",
+        "current_balance": 1910.0
+    }
+]
